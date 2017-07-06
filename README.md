@@ -1,33 +1,7 @@
 # tehlulzboat
-Providing High Quality Entertainment At Your Expense.
-"""
-                _.--| LuLz|:                    
-               <____|.----||                    
-                      .---''---,                
-   The                 ;..__..'    _...         
-    Lulz            , '/  ||/..--''    \        
-     Boat         ,'_ /'.-||            :       
-      2017   _..-' ''/    ||  \    \   _|/|     
-           \        /-._;/||   \    \,;'   \    
-           ,\      /    /`||    \   //    `:`.  
-         ,'  \    /-._;/  ||    : ::    ,.   . 
-       ,'     \  /    /`-.||    | || ' :  `.`.)
-    _,'        |;._: /|  ;||    | `|   :    `' 
-  ,'   `.      /    /`-:_/||    |  |  : \      
-  `--.   )    /'-._/    /:||       |   \ \     
-     /  /    /'_  /;`-./_;||__..--';    : :    
-    /  (    /  -./_  _/  .||'o |   /     ' |    
-   /  , \._/_/_./--''/_  /||___|_,'      | |    
-  :  /   `'-'--'----'---------'          / |    
-  | :     O ._O   O_. O ._O   O_.       ; ;    
-  : `.      //    //    //    //       /     
-~~~`.______//____//____//____//_______ ,'~~     
-          //    //~   //    // ~ ~ ~ ~~~~    
-   ~~   _//   _//   _// ~ _//    ~  ~ ~ ~    
- ~     / /   / /   / /   / /  ~      ~~       
-      ~~~   ~~~   ~~~   ~~~                   
-                                   Setting Sail to the horizon. 
-                                          Yours Truly.
-                                        LulzSecurity2017
-                                          Lulz Zombie   """
+Providing High Quality Entertainment At Your Expense.         
+         Setting Sail to the horizon. 
+                 Yours Truly.
+               LulzSecurity2017
+                  Lulz Zombie 
 
