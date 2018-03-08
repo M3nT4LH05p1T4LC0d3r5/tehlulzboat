@@ -15,7 +15,7 @@ if len(sys.argv) != 6:
 
 target = sys.argv[1]
 port = int(sys.argv[2])
-flag = sys.argv[3] #Valid TCP Flags are S for SYN, A for ACK, F for FIN, R for RST
+flag = sys.argv[3] #Valid TCP Flags are S for SYN, A for ACK, F for FIN, R for RST, use CAPS for flag
 rthread = int(sys.argv[4]) #You Don't Seem to Need a Ton of Threads Since This is Multi-processed
 multi = int(sys.argv[5]) #Number of Processes Should not exceed The Number of Cores in Your Computer
 
@@ -67,7 +67,6 @@ class sendTCP(threading.Thread):
             threading.thread = rthread
             threading.thread(target=run)
             rthread.start()
-            rthread.join()
 
     def run(self):
             global total
@@ -92,7 +91,6 @@ if __name__ == "__main__":
                      sendTCP().start()
                      multi = multiprocessing.Process(target=sendTCP)
                      multi.start()
-                     multi.join()
 
                   except KeyboardInterrupt:
                       goodbye()

@@ -66,7 +66,6 @@ class sendICMP(threading.Thread):
             threading.thread = rthread
             threading.thread(target=run)
             rthread.start()
-            rthread.join()
 
     def run(self):
             global total
@@ -90,7 +89,6 @@ if __name__ == "__main__":
                      sendICMP().start()
                      multi = multiprocessing.Process(target=sendICMP)
                      multi.start()
-                     multi.join()
 
                   except KeyboardInterrupt:
                       goodbye()
