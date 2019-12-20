@@ -1,3 +1,5 @@
+R.I.P.  In Memory of Zach B, aka LulzZombie
+
 # tehlulzboat
 
 Providing High Quality Entertainment At Your Expense<br>
